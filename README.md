@@ -3,7 +3,7 @@
 Objective: To build a Web Scraper application that can be used with a job search portal to extract information (specifically about job titles, company names and job locations). The scraped data can then either be listed or stored in files.  
 
 Outline: In order to execute the objective, I followed the steps as listed below:
-Create a program folder > Identify & install specific Ruby gemfiles > Create Program files > Testing & Validation > Documentation
+Created a program folder > Identified & installed specific Ruby gemfiles > Created program files > Did testing & validation > Completed documentation
 
 The program files created are as follows:
 1) gemfile - containing the Ruby gemfiles needed for this project (httparty, nokogiri) 
