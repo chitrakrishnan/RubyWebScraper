@@ -11,4 +11,4 @@ The program files created are as follows:
 3) scraper_menu.rb – containing the code for an interactive Menu program that would make use of the scraper source code 
 4) scraper_test.rb – This is the test program that a user would run
 
-Disclaimer: This is a personal project for which I collected publicly available data. This tool is not intended for public use. 
+Disclaimer: This is a personal practice project for which I collected publicly available data. This tool is not intended for public use. 
